@@ -10,7 +10,7 @@ return {
         explorer = {
           layout = {
             layout = {
-              width = 30,
+              width = 28,
             },
           },
         },
