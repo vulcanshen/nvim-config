@@ -2,6 +2,12 @@
 
 Personal Neovim configuration built on [LazyVim](https://github.com/LazyVim/LazyVim).
 
+## Installation
+
+```bash
+git clone https://github.com/vulcanshen/nvim-config.git ~/.config/nvim
+```
+
 ## Architecture
 
 **Entry point**: `init.lua` -> `lua/config/lazy.lua` (bootstraps lazy.nvim + LazyVim)
